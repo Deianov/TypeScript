@@ -1,9 +1,9 @@
-# TypeScript Lessons Repository
+# TypeScript Examples Repository
 
 Welcome to the TypeScript Examples Repository! This repository contains a collection of TypeScript examples to help you learn and master TypeScript.
 
 
-## [Project, Node.js, Typescript](./project-nodejs-typescript)
+## Project, Node.js, Typescript
 
 - [Intro](./project-nodejs-typescript/intro)
 - [Modules](./project-nodejs-typescript/modules)
