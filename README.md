@@ -2,20 +2,8 @@
 
 Welcome to the TypeScript Examples Repository! This repository contains a collection of TypeScript examples to help you learn and master TypeScript.
 
-## Table of Contents
 
-- [TypeScript Lessons Repository](#typescript-lessons-repository)
-  - [Table of Contents](#table-of-contents)
-  - [Project, Node.js, Typescript](#project-nodejs-typescript)
-  - [Basic Types](#basic-types)
-  - [Advanced Types](#advanced-types)
-  - [Classes](#classes)
-  - [Generics](#generics)
-  - [Type System](#type-system)
-  - [Interfaces and Extending Types](#interfaces-and-extending-types)
-  - [Sources](#sources)
-
-## Project, Node.js, Typescript
+## [Project, Node.js, Typescript](./project-nodejs-typescript)
 
 - [Intro](./project-nodejs-typescript/intro)
 - [Modules](./project-nodejs-typescript/modules)
