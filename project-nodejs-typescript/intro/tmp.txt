@@ -1,0 +1,13 @@
+
+
+
+
+settings.json
+    // to allow comments in json
+    "files.associations": {
+            "*.json": "jsonc"
+    },
+
+package.json
+    "serve": "live-server src --verbose"
+    "serve": "live-server src/index.html --verbose"
