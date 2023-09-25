@@ -58,5 +58,5 @@ Welcome to the TypeScript Examples Repository! This repository contains a collec
 
 ## Sources
 
-[Udemy: Schnelleinstieg in TypeScript [2022 Edition]](https://www.udemy.com/course/schnelleinstieg-in-typescript)
-[github](https://github.com/franneck94/UdemyTS)
+- [Udemy: Schnelleinstieg in TypeScript [2022 Edition]](https://www.udemy.com/course/schnelleinstieg-in-typescript)
+- [Udemy: Schnelleinstieg in TypeScript [2022 Edition] - Github page](https://github.com/franneck94/UdemyTS)
